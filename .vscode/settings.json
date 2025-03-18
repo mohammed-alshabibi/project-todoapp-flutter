@@ -1,0 +1,7 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.home": "C:/Program Files/Java/jdk-17",
+    "flutter.androidStudioPath": "C:/Program Files/Android/Android Studio",
+
+}
