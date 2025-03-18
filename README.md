@@ -16,13 +16,10 @@ Project Todo App is a simple and intuitive application designed to help users ma
 ## Screenshots
 
 ### Home Screen
-![Home Screen](to-do-app add home page.png)
+![Home Screen](to-do-app_home_page.png)
 
 ### Add Task Screen
 ![Add Task Screen](to-do-app_add_task_page.png)
-
-### Task List
-![Task List](path/to/task_list_image.png)
 
 ## Installation
 
